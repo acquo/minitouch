@@ -1,0 +1,3 @@
+[submodule "jni/vendor/libevdev/source"]
+	path = jni/vendor/libevdev/source
+	url = https://gitlab.freedesktop.org/libevdev/libevdev.git
